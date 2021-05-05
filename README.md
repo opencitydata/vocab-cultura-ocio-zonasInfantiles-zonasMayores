@@ -18,7 +18,7 @@ Parque, zona o área: identificador, dirección, latitud, longitud, distrito o b
 Mobiliario: identificador, código, código de parque, dirección, latitud, longitud, tipo de elemento, si está operativo, integración o accesible.
 
 ### Afectado LOPD
-NO
+No
 
 ### Transparencia
 No
